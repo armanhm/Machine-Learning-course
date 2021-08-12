@@ -4,4 +4,4 @@ There are challenges such as image size adjustment, segmentation of training and
 The main issue is to distinguish different breeds of dogs from their images.
 the code is also available in [Google Collab](http://vision.stanford.edu/aditya86/ImageNetDogs).
 
-[and also dataset link](http://vision.stanford.edu/aditya86/ImageNetDogs)
+[Dataset link](http://vision.stanford.edu/aditya86/ImageNetDogs)
